@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![:name](https://count.getloli.com/get/@:YlmfGo)
+
 <!--
 **YlmfGo/YlmfGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YlmfGo&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&icon_color=4b6584&title_color=4b6584" />
 
 Here are some ideas to get you started:
 
